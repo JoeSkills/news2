@@ -260,6 +260,6 @@ a {
 }
 @media screen and (max-width: 400px) {
   .h-top {
-    padding: none;
+    padding: 10px;
   }
 }
